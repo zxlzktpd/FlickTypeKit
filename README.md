@@ -15,7 +15,7 @@ Try out the latest version of the keyboard in the [FlickType Notes](https://test
 
 _**Note**: Do not drag it into Xcode._
 
-_**Note**: For Xcode 11, use the `swift-5.1` branch._
+_**Note**: For Xcode 11, use the new `xcframework` branch._
 
 ### In your watch extension target: 
   - Under **General** > **Embedded Binaries**: click the **+** button, then `Add Other...` and add `FlickTypeKit.framework`.
